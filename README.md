@@ -1,5 +1,3 @@
-![GitHub Snake](https://github.com/yosi-desu/yosi-desu/blob/output/github-contribution-grid-snake.svg)
-
 <p align="left"> 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosi-desu&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yosi-desu&theme=tokyonight&show_icons=ture" />
