@@ -6,7 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yosi-desu&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-## [tokyonight](./tokyonight/README.md)
 [![](https://raw.githubusercontent.com/yosi-desu/yosi-desu/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yosi-desu/yosi-desu/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yosi-desu/yosi-desu/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yosi-desu/yosi-desu/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yosi-desu/yosi-desu/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
