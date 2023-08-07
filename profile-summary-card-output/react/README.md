@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yosi-desu/yosi-desu/master/profile-summary-card-output/react/4-productive-time.svg)
-```
-
-    

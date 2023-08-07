@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yosi-desu/yosi-desu/master/profile-summary-card-output/merko/4-productive-time.svg)
-```
-
-    
